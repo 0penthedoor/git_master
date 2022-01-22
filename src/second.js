@@ -1,1 +1,1 @@
-const second = 'second';
+const second = 2;
