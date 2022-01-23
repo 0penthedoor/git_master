@@ -1,1 +1,1 @@
-const newLoginPage = 'this is a new login page';
+const newLoginPage = 'changed some faq link';
