@@ -1,0 +1,1 @@
+const fifth = 5;
