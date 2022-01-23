@@ -1,1 +1,2 @@
-const newLoginPage = 'this is a new login page';
+const newLoginPage = '이렇게 하는게 맞나';
+
