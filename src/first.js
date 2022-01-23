@@ -1,1 +1,1 @@
-const first = "first";
+const first = 1;
