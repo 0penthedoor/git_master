@@ -1,1 +1,1 @@
-const six = 6;
+const six = 'six';
